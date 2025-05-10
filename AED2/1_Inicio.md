@@ -12,7 +12,7 @@
 ---
 
 # 📍 Importância: Algoritmos
-[🔝](https://github.com/sthecss/Teoria-BCC/main/AED2/1_Inicio.md#sum%C3%A1rio)
+[🔝](https://github.com/sthecss/Teoria-BCC/blob/main/AED2/1_Inicio.md#sum%C3%A1rio)
 
 - Os algoritmos fazem parte do dia-a-dia das pessoas. Exemplos:
   - Instruções para uso de medicamentos
@@ -37,7 +37,7 @@
 ---
 
 # 📍 Importância: Estruturas de Dados
-[🔝](https://github.com/sthecss/Teoria-BCC/edit/main/AED2/1_Inicio.md#sum%C3%A1rio)
+[🔝](https://github.com/sthecss/Teoria-BCC/blob/main/AED2/1_Inicio.md#sum%C3%A1rio)
 
 - Estruturas de dados e algoritmos são interdependentes
 - Essenciais para a programação eficiente
@@ -71,7 +71,7 @@
 ---
 
 # 📍 Competências
-[🔝](https://github.com/sthecss/Teoria-BCC/edit/main/AED2/1_Inicio.md#sum%C3%A1rio)
+[🔝](https://github.com/sthecss/Teoria-BCC/blob/main/AED2/1_Inicio.md#sum%C3%A1rio)
 
 Ao final da disciplina, o aluno deve ser capaz de:
 
@@ -82,7 +82,7 @@ Ao final da disciplina, o aluno deve ser capaz de:
 ---
 
 # 📍 Programa Detalhado
-[🔝](https://github.com/sthecss/Teoria-BCC/edit/main/AED2/1_Inicio.md#sum%C3%A1rio)
+[🔝](https://github.com/sthecss/Teoria-BCC/blob/main/AED2/1_Inicio.md#sum%C3%A1rio)
 
 ## Ordenação
 
@@ -114,7 +114,7 @@ Ao final da disciplina, o aluno deve ser capaz de:
 ---
 
 # 📍 Plataformas e Ferramentas
-[🔝](https://github.com/sthecss/Teoria-BCC/edit/main/AED2/1_Inicio.md#sum%C3%A1rio)
+[🔝](https://github.com/sthecss/Teoria-BCC/blob/main/AED2/1_Inicio.md#sum%C3%A1rio)
 
 - [CodeBlocks](http://www.codeblocks.org/)  
 - [VS Code](https://code.visualstudio.com/)  
@@ -124,7 +124,7 @@ Ao final da disciplina, o aluno deve ser capaz de:
 ---
 
 # 📍 Bibliografia
-[🔝](https://github.com/sthecss/Teoria-BCC/edit/main/AED2/1_Inicio.md#sum%C3%A1rio)
+[🔝](https://github.com/sthecss/Teoria-BCC/blob/main/AED2/1_Inicio.md#sum%C3%A1rio)
 
 ## Obrigatória
 
