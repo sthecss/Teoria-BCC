@@ -6,7 +6,7 @@
 
 ---
 
-# Sumário
+# Sumario
 
 - [Roteiro](#roteiro)
 - [Algoritmos](#algoritmos)
@@ -23,6 +23,8 @@
 
 # Roteiro
 
+[🔝](#sumario)
+
 - Por que analisar a complexidade de algoritmos?
 - Função de complexidade
 - Melhor caso, pior caso e caso médio
@@ -33,6 +35,8 @@
 ---
 
 # Algoritmos
+
+[🔝](#sumario)
 
 - Resolver um problema computacional exige uma descrição clara e precisa
 - Um **algoritmo** é uma sequência objetiva de instruções, cada uma representando uma ação básica a ser executada
@@ -61,7 +65,9 @@
 
 ---
 
-# Tipos de Análise
+# Tipos de Analise
+
+[🔝](#sumario)
 
 ## Análise empírica
 
@@ -79,7 +85,9 @@
 
 ---
 
-# Função de Complexidade
+# Funcao de Complexidade
+
+[🔝](#sumario)
 
 - Representa o custo de execução de um algoritmo:
   - Tempo: f(n) = número de passos relevantes
@@ -95,7 +103,9 @@
 
 ---
 
-# Melhor, Pior e Caso Médio
+# Melhor, Pior e Caso Medio
+
+[🔝](#sumario)
 
 Dado um algoritmo A e um conjunto de entradas possíveis E:
 
@@ -136,7 +146,9 @@ Dado um algoritmo A e um conjunto de entradas possíveis E:
 
 ---
 
-# Notação O (Ordem de Complexidade)
+# Notacao O (Ordem de Complexidade)
+
+[🔝](#sumario)
 
 Usada para descrever o **limite superior assintótico**:
 
@@ -166,7 +178,9 @@ f(n) = 5·2ⁿ + 5n¹⁰   ⇒ O(2ⁿ)
 
 ---
 
-# Comparação de Programas
+# Comparacao de Programas
+
+[🔝](#sumario)
 
 Dois algoritmos com funções de custo:
 
@@ -185,6 +199,8 @@ Dois algoritmos com funções de custo:
 ---
 
 # Principais Classes de Complexidade
+
+[🔝](#sumario)
 
 Ordem de crescimento (do menor para o maior):
 
@@ -222,7 +238,9 @@ O(1) < O(log n) < O(n) < O(n log n) < O(n²) < O(n³) < O(2ⁿ) < O(n!)
 
 ---
 
-# Sugestões de Leitura
+# Sugestoes de Leitura
+
+[🔝](#sumario)
 
 * ZIVIANI, Nivio. *Projeto de Algoritmos* – Capítulo 1
 * CORMEN et al. *Algoritmos – Teoria e Prática* – Capítulos 2, 3 e 4
