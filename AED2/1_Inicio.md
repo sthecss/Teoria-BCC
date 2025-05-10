@@ -3,11 +3,11 @@
 ---
 # Sumário
 
-- [Importância: Algoritmo](https://github.com/sthecss/Teoria-BCC/new/main#-import%C3%A2ncia-algoritmos) e [Importancia: Estruturas de Dados](https://github.com/sthecss/Teoria-BCC/new/main#-import%C3%A2ncia-estruturas-de-dados)
-- [Competências](https://github.com/sthecss/Teoria-BCC/new/main#-compet%C3%AAncias)
-- [Programa Detalhado](https://github.com/sthecss/Teoria-BCC/new/main#-programa-detalhado)
-- [Plataformas e Ferramentas](https://github.com/sthecss/Teoria-BCC/new/main#-plataformas-e-ferramentas)
-- [Bibliografia](https://github.com/sthecss/Teoria-BCC/new/main#-bibliografia)
+- [Importância: Algoritmo](https://github.com/sthecss/Teoria-BCC/blob/main/AED2/1_Inicio.md#-import%C3%A2ncia-algoritmos) e [Importancia: Estruturas de Dados](https://github.com/sthecss/Teoria-BCC/blob/main/AED2/1_Inicio.md#-import%C3%A2ncia-estruturas-de-dados)
+- [Competências](https://github.com/sthecss/Teoria-BCC/blob/main/AED2/1_Inicio.md#-compet%C3%AAncias)
+- [Programa Detalhado](https://github.com/sthecss/Teoria-BCC/blob/main/AED2/1_Inicio.md#-programa-detalhado)
+- [Plataformas e Ferramentas](https://github.com/sthecss/Teoria-BCC/blob/main/AED2/1_Inicio.md#-plataformas-e-ferramentas)
+- [Bibliografia](https://github.com/sthecss/Teoria-BCC/blob/main/AED2/1_Inicio.md#-bibliografia)
 
 ---
 
