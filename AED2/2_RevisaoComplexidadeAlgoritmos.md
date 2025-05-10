@@ -9,6 +9,14 @@
 # Sumário
 
 - [Roteiro](#roteiro)
+- [Algoritmos](#algoritmos)
+- [Tipos de Análise](#tipos-de-analise)
+- [Função de Complexidade](#funcao-de-complexidade)
+- [Melhor, Pior e Caso Médio](#melhor-pior-e-caso-medio)
+- [Notação O (Ordem de Complexidade)](#notacao-o-ordem-de-complexidade)
+- [Comparação de Programas](#comparacao-de-programas)
+- [Principais Classes de Complexidade](#principais-classes-de-complexidade)
+- [Sugestões de Leitura](#sugestoes-de-leitura)
 
 ---
 
@@ -31,7 +39,7 @@
 
 ---
 
-# Vários algoritmos para o mesmo problema
+## Vários algoritmos para o mesmo problema
 
 - Diferem na forma como utilizam os **recursos computacionais**:
   - Tempo de execução
@@ -39,7 +47,7 @@
 
 ---
 
-# Por que analisar a complexidade?
+## Por que analisar a complexidade?
 
 - Avalia a **eficiência**, **desempenho** e **robustez** dos algoritmos
 - Diferenças de desempenho podem ser insignificantes para entradas pequenas, mas críticas para entradas grandes
@@ -80,7 +88,7 @@
 
 ---
 
-# Tamanho da entrada
+## Tamanho da entrada
 
 - É o fator mais relevante para o custo de execução
 - O custo pode variar conforme a **estrutura da entrada**, não apenas seu tamanho
@@ -121,7 +129,7 @@ Dado um algoritmo A e um conjunto de entradas possíveis E:
 
 ---
 
-# Comportamento Assintótico
+## Comportamento Assintótico
 
 - Para valores pequenos de n, qualquer algoritmo parece "rápido"
 - A análise foca no comportamento de **f(n) quando n → ∞**
