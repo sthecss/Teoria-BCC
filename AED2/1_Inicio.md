@@ -4,7 +4,7 @@
 
 ## Sumário
 
-- [📌 Importância: Algoritmos](#importância-algoritmos)
+- [📌 Importância: Algoritmos](https://github.com/sthecss/Teoria-BCC/edit/main/AED2/1_Inicio.md#-import%C3%A2ncia-algoritmos)
 - [📌 Importância: Estruturas de Dados](#importância-estruturas-de-dados)
 - [📌 Tipos de Problemas Resolvidos por Algoritmos](#que-tipos-de-problemas-são-resolvidos-por-algoritmos)
 - [📌 Escolha do Algoritmo Ideal](#qual-o-melhor-algoritmo-para-um-problema)
