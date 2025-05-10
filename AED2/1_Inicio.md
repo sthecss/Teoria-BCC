@@ -12,7 +12,7 @@
 ---
 
 # 📍 Importância: Algoritmos
-[🔝](https://github.com/sthecss/Teoria-BCC/edit/main/AED2/1_Inicio.md#sum%C3%A1rio)
+[🔝](https://github.com/sthecss/Teoria-BCC/main/AED2/1_Inicio.md#sum%C3%A1rio)
 
 - Os algoritmos fazem parte do dia-a-dia das pessoas. Exemplos:
   - Instruções para uso de medicamentos
